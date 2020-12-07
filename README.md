@@ -1,2 +1,2 @@
 # mozcomunidades
-Lista de Comunidade de Técnolofia e Programação em Moçambique
+Lista de Comunidades de Técnologia e Programação em Moçambique
