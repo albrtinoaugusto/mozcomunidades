@@ -829,7 +829,7 @@ header.header-light .logo-2{
 }
 .blog-list .date-box {
 	text-align: center;
-	background: #f5f5f5;
+	background: #fffafa;
 	padding: 10px;
 }
 .blog-list .date-box .month {
@@ -1925,7 +1925,7 @@ h1.big, .h1_big {
 	color: #222;
 	font-size: 60px;
 	margin: 0;
-	line-height: 56px;
+	line-height: 30px; /*Updated*/
 }
 h1.very-big {
 	font-size: 84px;
@@ -2487,7 +2487,7 @@ span.teaser {
 .box-fx .bg-icon {
 	left: 50%;
 	bottom: 50px;
-	color: #f5f5f5 !important;
+	color: #fffafa !important;
 	position: absolute !important;
 	font-size: 190px !important;
 	z-index: -1;
@@ -2631,7 +2631,7 @@ span.teaser {
 	background: #F8F8F8;
 }
 .pricing-box li.deco {
-	background: #f5f5f5;
+	background: #fffafa;
 }
 .pricing-box a.btn {
 	color: #eceff3;
@@ -3006,7 +3006,7 @@ a.accordion-toggle, a:visited.accordion-toggle {
 	border-left: 1px solid #ddd;
 	border-right: 1px solid #ddd;
 	display: block;
-	background: #f5f5f5;
+	background: #fffafa;
 	text-decoration: none;
 	color: #646464;
 	font-size: 13px;
@@ -4110,7 +4110,7 @@ video, object {
 /* ================================================== */
 
 .call-to-action-box {
-	background: #f5f5f5;
+	background: #fffafa;
 	border: solid 1px #ddd;
 	background: rgb(255, 255, 255);
 	/* Old browsers */
@@ -4953,17 +4953,7 @@ footer .widget_list li a {
 	padding: 40px 0 30px 0;
 	border-bottom: solid 1px #ddd;
 }
-.schedule-listing:nth-child(even) {
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e5e5e5+50,ffffff+100&0+0,1+50,0+100 */
-	background: -moz-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(229, 229, 229, 1) 50%, rgba(255, 255, 255, 0) 100%);
-	/* FF3.6-15 */
-	background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(229, 229, 229, 1) 50%, rgba(255, 255, 255, 0) 100%);
-	/* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(229, 229, 229, 1) 50%, rgba(255, 255, 255, 0) 100%);
-	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#00ffffff', GradientType=1);
-	/* IE6-9 */
-}
+
 .schedule-item>div {
 	float: left;
 }
@@ -5267,7 +5257,7 @@ p.intro {
 	line-height: 1.5em;
 }
 .bg-grey {
-	background: #f5f5f5;
+	background: #fffafa;
 }
 .no-bottom .col-md-12 {}
 .no-bottom {
@@ -5569,7 +5559,7 @@ i.btn-action-hide {
 	height: 32px;
 	text-align: center;
 	line-height: 30px;
-	background: #f5f5f5;
+	background: #fffafa;
 	cursor: pointer;
 	border: 0;
 	border-radius: 2px;
@@ -5900,7 +5890,7 @@ a.read_more i {
 	/* border: 1px solid #d4d4d4; */
 	border-radius: 2px;
 	position: relative;
-	/* background: #f5f5f5; */
+	/* background: #fffafa; */
 }
 .timeline>li>.timeline-panel:before {
 	position: absolute;
@@ -5919,8 +5909,8 @@ a.read_more i {
 	right: -14px;
 	display: inline-block;
 	/*border-top: 14px solid transparent;
-  border-left: 14px solid #f5f5f5;
-  border-right: 0 solid #f5f5f5;
+  border-left: 14px solid #fffafa;
+  border-right: 0 solid #fffafa;
   border-bottom: 14px solid transparent;*/
 	content: " ";
 }
@@ -6240,7 +6230,7 @@ a.read_more i {
 	border-left: 1px solid #ddd;
 	border-right: 1px solid #ddd;
 	display: block;
-	background: #f5f5f5;
+	background: #fffafa;
 	text-decoration: none;
 	color: #646464;
 	font-size: 13px;
