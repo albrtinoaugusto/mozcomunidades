@@ -1,82 +1,10 @@
-/* ================================================== */
-
-
-/* Eventbiz
-/* created by designesia
-
-* body
-* header
-	* subheader
-* navigation
-* content
-* section
-* footer
-* sidebar
-* blog
-* products
-* contact
-* coming soon page
-* elements
-	* address
-	* border
-	* box icon
-	* breadcrumb
-	* button and link
-	* columns
-	* counter
-	* divider
-	* dropcap
-	* heading
-	* icon font
-	* list
-	* map
-	* package
-	* page heading
-	* pagination
-	* pricing
-	* preloader
-	* progress bar
-	* social icons
-	* spacer
-	* tabs
-	* team
-	* testimonial
-* plugin
-* media query
-*/
-
 @charset "utf-8";
-
-/* ================================================== */
-
-
-/* import custom fonts */
-
-
-/* ================================================== */
 
 @import url('https://fonts.googleapis.com/css?family=Nunito:300,300i,400,400i,600,600i,700,700i,800,800i,900,900i');
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
-
-/* ================================================== */
-
-
-/* import fonts icon */
-
-
-/* ================================================== */
-
 @import url("../fonts/font-awesome/css/font-awesome.css");
 @import url("../fonts/elegant_font/HTML_CSS/style.css");
 @import url("../fonts/et-line-font/style.css");
-
-/* ================================================== */
-
-
-/* body */
-
-
-/* ================================================== */
 
 html {
 	overflow-x: hidden;
