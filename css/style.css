@@ -1153,7 +1153,7 @@ header.header-light .logo-2{
 	font-weight: 400;
 }
 .coming-soon .social-icons i {
-	font-size: 20px;
+	font-size: 15px;
 	margin-left: 10px;
 	margin-right: 10px;
 }
@@ -2920,7 +2920,7 @@ span.teaser {
 	color: #333;
 }
 .social-icons.big i {
-	font-size: 26px;
+	font-size: 18px;
 	width: auto;
 	height: auto;
 	margin: 0 15px 0 15px;
@@ -2928,6 +2928,41 @@ span.teaser {
 .social-icons.big i:hover {
 	background: none;
 }
+
+
+/****/
+.social-icons-v2 {
+	display: inline-block;
+}
+.social-icons-v2 i {
+	text-shadow: none;
+	color: #fff;
+	padding: 8px;
+	width: 28px;
+	height: 28px;
+	text-align: center;
+	font-size: 16px;
+	border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+}
+.social-icons-v2 i:hover {
+	background: #fff;
+	border-color: #eceff3;
+	color: #333;
+}
+.social-icons-v2.big i {
+	font-size: 18px;
+	width: auto;
+	height: auto;
+	margin: 0 15px 0 15px;
+}
+.social-icons-v2.big i:hover {
+	background: none;
+}
+
+
+
 
 /*
 	.social-icons .fa-facebook{	background:#305fb3;	}
