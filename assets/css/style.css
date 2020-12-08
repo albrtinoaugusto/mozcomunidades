@@ -1121,10 +1121,10 @@ header.header-light .logo-2{
 	-webkit-border-radius: 0px;
 	-moz-appearance: none;
 	appearance: none;
-	background: url('../images_02/ui/arrow-down-form.png') no-repeat 98% 60%;
+	background: url('../../images_02/ui/arrow-down-form.png') no-repeat 98% 60%;
 }
 .form-underline select:focus {
-	background: url('../images_02/ui/arrow-down-form-hover.png') no-repeat 98% 60%;
+	background: url('../../images_02/ui/arrow-down-form-hover.png') no-repeat 98% 60%;
 }
 .form-underline input[type=text], .form-underline textarea, .form-underline input[type=email], .form-underline select {
 	color: #333;
@@ -2832,7 +2832,7 @@ span.teaser {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url(../images/logo-smaller.png) center no-repeat #222222 !important;
+	background: url(../../images/logo-smaller.png) center no-repeat #222222 !important;
 	text-align: center;
 }
 .preloader1 {
